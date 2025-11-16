@@ -1,3 +1,6 @@
+<img width="1098" height="230" alt="image" src="https://github.com/user-attachments/assets/afbf79eb-85c6-4722-bbce-50fa622cd020" />
+
+
 # Pacifica 순차 전략 봇
 
 Pacifica 거래소에서 BTC 숏 포지션을 자동으로 진입/청산하는 순차 실행 봇입니다.
