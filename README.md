@@ -56,7 +56,7 @@ PF_POS_REST_ERR_SEC=60         # 에러 시 쿨다운
 ## 실행
 
 ```bash
-python pacifica_sequential_bot.py
+python trade.py
 ```
 
 ## 상태 설명
